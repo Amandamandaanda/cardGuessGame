@@ -1,7 +1,8 @@
-![Card guess game startpage](images/design1.png)
+![Card guess game startpage](images/design4.png)
 
-![Card guess game, gamepage](images/design2.png)
+![Card guess game, gamepage](images/design5.png)
 
-![Card guess game, gamepage](images/design3.png)
+![Card guess game, gamepage](images/design6.png)
+
 
 
