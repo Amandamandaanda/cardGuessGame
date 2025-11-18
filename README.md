@@ -1,1 +1,2 @@
-(images/design1.png)
+![Card guess game startpage](images/design1.png)
+
